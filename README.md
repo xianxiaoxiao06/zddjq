@@ -18,27 +18,27 @@
 - [欧易.apk](https://static.idebuim.cn/upgradeapp/okx-android.apk)
 
 # 【查询工具-资讯-数据分析】
-- [Coinglass.apk](./coinglass.apk)
-- [coinmarketcap.apk](./coinmarketcap.apk)
+- [Coinglass.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/coinglass.apk)
+- [coinmarketcap.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/coinmarketcap.apk)
 
 # 【各项目利好明细】
-- [foresightnews.apk](./foresightnews.apk)
+- [foresightnews.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/foresightnews.apk)
 
 # 【看盘软件】
 - [Aicoin.apk](https://a1coin.info/download)
-- [Tradingview.apk](./tradingview.apk)
+- [Tradingview.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/tradingview.apk)
 
 # 【查看代币解锁情况】
-- [vestlab.apk](./vestlab.apk)
+- [vestlab.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/vestlab.apk)
 
 # 【减半倒计时】
-- [Coinex.apk](./coinex.apk)
+- [Coinex.apk](https://github.com/xianxiaoxiao06/zddjq/raw/main/coinex.apk)
 
 # 【钱包】
 - [TP.apk](https://download-tp.oss-accelerate.aliyuncs.com/apk/TokenPocket-pro.apk?t=1709734357062)
 
 # 【链上工具】
-- [Dexscreener.apk（看盘软件）](./dexscreener.apk)
+- [Dexscreener.apk（看盘软件）](https://github.com/xianxiaoxiao06/zddjq/raw/main/dexscreener.apk)
 - [AVE.apk（看盘软件）](./AVE.apk)
 
 ### 苹果手机，需要海外ID（注册苹果账户时，居住地选择在香港地区）自行注册即可下载。
